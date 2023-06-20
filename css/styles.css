@@ -2,7 +2,8 @@
 
 body{
   margin: 0;
-  
+
+
 }
 
 a{
@@ -23,6 +24,7 @@ header{
   align-items: center;
   padding: 10px;
   
+  
 }
   
 .logo{
@@ -38,6 +40,7 @@ header{
 nav a{
   font-weight: 600;
   padding-right: 10px;
+ 
 }
 
 nav a:hover{
@@ -52,6 +55,7 @@ nav a:hover{
   margin-bottom: 20px;
   line-height: 1.2;
   font-family: 'Alkatra', cursive;
+
 }
 
 #b {
@@ -62,6 +66,7 @@ nav a:hover{
   padding: 20px;
   text-align: center;
   font-family: 'Alkatra', cursive;
+
   
   
   
@@ -81,6 +86,7 @@ nav a:hover{
   margin-left: 20px;
   margin-right: 20px;
   font-family: 'Alkatra', cursive;
+ 
 }
 
 #d {
@@ -118,6 +124,7 @@ nav a:hover{
   clip-path: circle();
   margin-top: 20px;
   margin-bottom: 20px;
+
   
   
 }
@@ -131,12 +138,14 @@ nav a:hover{
   height: auto;
   margin-top: 40px;
   margin-bottom: 110px;
+
   
 }
 .iconos a {
   display: inline-block;
   margin: 10px;
   position: relative;
+
 }
 
 .iconos a:hover::before {
@@ -146,7 +155,8 @@ nav a:hover{
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(186, 148, 234, 0.5); /* Color de sombra lila */
+  background-color: rgba(186, 148, 234, 0.5); 
+ /* Color de sombra lila */
 }
 
 
@@ -185,6 +195,7 @@ main {
   margin-top: 20px;
   margin-bottom: 20px;
   margin: 0 auto;
+
   
 
 }
