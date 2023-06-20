@@ -193,20 +193,7 @@ main {
 
   display: block;
   margin: 0 auto;
-  border: 1px;
-  padding: 10px;
-  background-color: #af599e;
-  color: #fbfbfb;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-family: 'Helvetica', sans-serif;
-  border-radius: 50px;
-  text-size-adjust: 20px;
-  width: 200px;
-  height: 40px;
-  text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+
 }
 
 .change-font {
