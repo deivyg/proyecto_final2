@@ -196,9 +196,10 @@ main {
   margin-bottom: 20px;
   margin: 0 auto;
 
-  
-
-}
+  }
+  #f {
+    text-align: center;
+  }
 
 #change-font {
 
